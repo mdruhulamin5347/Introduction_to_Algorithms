@@ -9,8 +9,6 @@ int main(){
 
     vector<int> adj_list[n];
 
-    memset(adj_list,-1,sizeof(adj_list));
-
     for(int i=0; i<e; i++){
         int a,b;
         cin >> a >> b;
