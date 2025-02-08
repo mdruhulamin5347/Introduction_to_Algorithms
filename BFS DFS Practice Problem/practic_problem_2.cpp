@@ -30,6 +30,7 @@ void bfs(int src){
         }
     }
 }
+// main function 
 int main(){
     int n,e;
     cin >> n >> e;
