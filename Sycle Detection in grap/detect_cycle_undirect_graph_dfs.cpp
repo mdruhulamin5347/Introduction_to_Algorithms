@@ -23,7 +23,6 @@ void dfs(int src){
             dfs(child);            
         }
     }
-
 }
 
 int main(){
@@ -41,11 +40,9 @@ int main(){
             dfs(i);
         }
     }
-    if(cycle){
-        cout << "Cycle ditected" << endl;
-    }
-    else{
-        cout << "No Cycle" << endl;
-    }
+    if(cycle)
+        cout << "Cycle ditected" << endl;    
+    else
+        cout << "No Cycle" << endl;    
     return 0;
 }
