@@ -1,0 +1,1 @@
+{"name":"Local: box","url":"d:\\website\\phitron\\Introduction_to_Algorithms\\box.cpp","tests":[{"id":1740158050582,"input":"3\naeiouaeiou\nhello\nae12io","output":"5\n1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\website\\phitron\\Introduction_to_Algorithms\\box.cpp","group":"local","local":true}

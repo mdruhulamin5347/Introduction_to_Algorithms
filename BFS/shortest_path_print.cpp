@@ -50,9 +50,15 @@ int main(){
         v.push_back(node);
         node = parent[node];
     }
+    
     reverse(v.begin(),v.end());
     for(int val : v){
         cout << val << " ";
     }
     return 0;
 }
+
+
+
+
+

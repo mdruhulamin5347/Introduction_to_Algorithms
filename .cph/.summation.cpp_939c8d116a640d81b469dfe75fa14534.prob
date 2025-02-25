@@ -1,0 +1,1 @@
+{"name":"Local: summation","url":"d:\\website\\phitron\\Introduction_to_Algorithms\\summation.cpp","tests":[{"id":1740150502045,"input":"5 2","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\website\\phitron\\Introduction_to_Algorithms\\summation.cpp","group":"local","local":true}

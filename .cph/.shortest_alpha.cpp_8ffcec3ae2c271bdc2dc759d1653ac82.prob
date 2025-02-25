@@ -1,0 +1,1 @@
+{"name":"Local: shortest_alpha","url":"d:\\website\\phitron\\Introduction_to_Algorithms\\shortest_alpha.cpp","tests":[{"id":1740065401919,"input":"monkey\ni love flower abc xx","output":"ekmnoy\nabceefilloorvwxx"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\website\\phitron\\Introduction_to_Algorithms\\shortest_alpha.cpp","group":"local","local":true}

@@ -37,7 +37,7 @@ int main(){
         adj_list[a].push_back({b,c});
         adj_list[b].push_back({a,c});
     }    
-
+    
     dijkstra(0);
 
     for(int i=0; i<n; i++)
