@@ -1,0 +1,191 @@
+[33mcommit 56d4ce63ba7ac86562f13979250b4cac93b81956[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: mdruhulamin5347 <mdruhulamin534793@gmail.com>
+Date:   Tue Feb 25 22:30:55 2025 +0600
+
+    negetive weighted cycle detect using bellman ford
+
+[33mcommit e1569de27f0c0f47896f47684a456f83618d8203[m
+Author: mdruhulamin5347 <mdruhulamin534793@gmail.com>
+Date:   Tue Feb 25 22:15:11 2025 +0600
+
+    implementation shortest path find using bellman ford algorithom
+
+[33mcommit ba0f0f2d2218e94bb14b799753a8f930f66e50f2[m
+Author: mdruhulamin5347 <mdruhulamin534793@gmail.com>
+Date:   Tue Feb 25 13:58:50 2025 +0600
+
+    optimize dijkstra algorithom
+
+[33mcommit e7fdad7506cde5ee12c41decb1270ad2bfd68d6d[m
+Author: Md.Ruhul Amin <mdruhulamin534793@gmail.com>
+Date:   Wed Feb 12 23:46:51 2025 +0600
+
+    Dijkstra Algorithm solve by more optimize approch
+
+[33mcommit d25cbf11b9ea5c1a27e2d638f23efb62d7fbc01d[m
+Author: Md.Ruhul Amin <mdruhulamin534793@gmail.com>
+Date:   Wed Feb 12 23:30:39 2025 +0600
+
+    Dijkstra Algorithm solve by naive approch
+
+[33mcommit 91310d88ccf6612794ad58a9c2c42147a56f6cc1[m
+Author: Md.Ruhul Amin <mdruhulamin534793@gmail.com>
+Date:   Wed Feb 12 19:03:04 2025 +0600
+
+    Dijkstra Algorithm
+
+[33mcommit 6c7c58545bdf7f43a478b6a80411c9da83a122c8[m
+Author: Md.Ruhul Amin <mdruhulamin534793@gmail.com>
+Date:   Tue Feb 11 01:32:08 2025 +0600
+
+    detect cycle in directed graph using dfs
+
+[33mcommit f54bfd9fa2d2d2632c8e36a079508a1fd73139cf[m
+Author: Md.Ruhul Amin <mdruhulamin534793@gmail.com>
+Date:   Mon Feb 10 23:51:09 2025 +0600
+
+    detect cycle in undirected graph using dfs
+
+[33mcommit e31e24d6d0df57bc96c26847a228e3a2140ddca3[m
+Author: Md.Ruhul Amin <mdruhulamin534793@gmail.com>
+Date:   Mon Feb 10 23:50:20 2025 +0600
+
+    detect cycle in undirected graph using bfs
+
+[33mcommit 14947965a82e817a6d4bf1e95cba5948dd231cdd[m
+Author: Md.Ruhul Amin <mdruhulamin534793@gmail.com>
+Date:   Mon Feb 10 23:43:36 2025 +0600
+
+    detect cycle in undirected graph using bfs
+
+[33mcommit 97a2fe4a9a71b8d72644f9ec0fdf1a7d28fd6aae[m
+Author: Md.Ruhul Amin <mdruhulamin534793@gmail.com>
+Date:   Mon Feb 10 23:42:17 2025 +0600
+
+    detect cycle in undirected graph using bfs
+
+[33mcommit 96ee8e6a9c594bb1a05995b959945edb74eb1640[m
+Author: Md.Ruhul Amin <mdruhulamin534793@gmail.com>
+Date:   Sun Feb 9 01:47:31 2025 +0600
+
+    third problem solve: count node
+
+[33mcommit 74a4922301d4df00cd7a3247b8aea2749534ce5b[m
+Author: Md.Ruhul Amin <mdruhulamin534793@gmail.com>
+Date:   Sun Feb 9 01:43:26 2025 +0600
+
+    second problem solve: level node print
+
+[33mcommit 844b68c685f32713e4c83e2fab8e558cc0998a3b[m
+Author: Md.Ruhul Amin <mdruhulamin534793@gmail.com>
+Date:   Sun Feb 9 01:38:00 2025 +0600
+
+    first problem solve: shortest node count
+
+[33mcommit fe5a0e8bad358b7aebb6fefe0336397b68c9a1d5[m
+Author: Md.Ruhul Amin <mdruhulamin534793@gmail.com>
+Date:   Sat Feb 8 02:18:59 2025 +0600
+
+    connected or not?
+
+[33mcommit 6391f34da4257f799d7c80e9a4b51dbd30218dc5[m
+Author: Md.Ruhul Amin <mdruhulamin534793@gmail.com>
+Date:   Sat Feb 8 02:18:28 2025 +0600
+
+    connected nodes in graph
+
+[33mcommit 9289f964d81265c7d107cc5b29b11d3f8b95c2fb[m
+Author: Md.Ruhul Amin <mdruhulamin534793@gmail.com>
+Date:   Sat Feb 8 02:17:54 2025 +0600
+
+    can go sourse to destination in grip
+
+[33mcommit 873f810d7699dd8e6d469e820f2f3e7e7d955e87[m
+Author: Md.Ruhul Amin <mdruhulamin534793@gmail.com>
+Date:   Sat Feb 8 02:16:56 2025 +0600
+
+    count apartments in graph
+
+[33mcommit ac7433f42876619ff7d813c7b5460b69d5135c71[m
+Author: Md.Ruhul Amin <mdruhulamin534793@gmail.com>
+Date:   Sat Feb 8 02:16:16 2025 +0600
+
+    apartment nodes print
+
+[33mcommit a0f22ee86277a00d4851987ecf2e15f53c2523ac[m
+Author: Md.Ruhul Amin <mdruhulamin534793@gmail.com>
+Date:   Thu Feb 6 20:32:00 2025 +0600
+
+    number of component
+
+[33mcommit 7a69391cbb17b106050496e5dc27c6925e9c4973[m
+Author: Md.Ruhul Amin <mdruhulamin534793@gmail.com>
+Date:   Thu Feb 6 20:01:15 2025 +0600
+
+    implement DFS on 2d grid
+
+[33mcommit a99db2f782a668db0646d8b5ba25186334228254[m
+Author: Md.Ruhul Amin <mdruhulamin534793@gmail.com>
+Date:   Thu Feb 6 19:10:14 2025 +0600
+
+    implement DFS traversal
+
+[33mcommit 271bbb0e37c9117357ab91f477a47828736f9919[m
+Author: Md.Ruhul Amin <mdruhulamin534793@gmail.com>
+Date:   Thu Feb 6 14:54:13 2025 +0600
+
+    shortest path print
+
+[33mcommit 039573d97f5c8940ef8ec066c4c885fc0d9c92ed[m
+Author: Md.Ruhul Amin <mdruhulamin534793@gmail.com>
+Date:   Thu Feb 6 14:47:29 2025 +0600
+
+    shortest distance
+
+[33mcommit 415497d1bff26ef5a3d3263ff36b2ff48a1ef336[m
+Author: Md.Ruhul Amin <mdruhulamin534793@gmail.com>
+Date:   Thu Feb 6 14:01:58 2025 +0600
+
+    can be visited or not
+
+[33mcommit 9556060a0eeb4c9245ba94f9b08a968927ce4b17[m
+Author: Md.Ruhul Amin <mdruhulamin534793@gmail.com>
+Date:   Thu Feb 6 13:54:14 2025 +0600
+
+    implement BFS traversal
+
+[33mcommit 1b93b2e361027eaae3669b88a65f327a52536d3b[m
+Author: Md.Ruhul Amin <mdruhulamin534793@gmail.com>
+Date:   Thu Feb 6 01:38:10 2025 +0600
+
+    implement adjacency list
+
+[33mcommit 4c79eddb2dc9e770bb270136d6419f84ec6be4d6[m
+Author: Md.Ruhul Amin <mdruhulamin534793@gmail.com>
+Date:   Thu Feb 6 01:37:37 2025 +0600
+
+    implement adge list
+
+[33mcommit 4ef2362d42c47547c11035fbb849a3bbf9a51de4[m
+Author: Md.Ruhul Amin <mdruhulamin534793@gmail.com>
+Date:   Thu Feb 6 01:33:28 2025 +0600
+
+    implement adjacency list
+
+[33mcommit c7482fa0408c2c6659e4cb6d5372e46d006c621a[m
+Author: Md.Ruhul Amin <mdruhulamin534793@gmail.com>
+Date:   Thu Feb 6 01:08:33 2025 +0600
+
+    implement adjacency matrix
+
+[33mcommit b88c53903ac0458c8ce4146e5fa442b9d1fce4b5[m
+Author: Md.Ruhul Amin <mdruhulamin534793@gmail.com>
+Date:   Thu Feb 6 01:06:07 2025 +0600
+
+    graph input
+
+[33mcommit 14d755148ba5f62d39801376a0cb870d2df32ed4[m
+Author: Md.Ruhul Amin <mdruhulamin534793@gmail.com>
+Date:   Wed Feb 5 00:58:46 2025 +0600
+
+    Introduction to Algorithm
