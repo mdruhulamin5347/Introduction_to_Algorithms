@@ -1,0 +1,1 @@
+{"name":"Local: bellman_ford","url":"d:\\website\\phitron\\Introduction_to_Algorithms\\Bellman Ford\\bellman_ford.cpp","tests":[{"id":1740498319893,"input":"4 4\n0 1 1\n1 3 6\n3 2 3\n1 2 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\website\\phitron\\Introduction_to_Algorithms\\Bellman Ford\\bellman_ford.cpp","group":"local","local":true}
